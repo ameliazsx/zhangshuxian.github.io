@@ -1,0 +1,35 @@
+body{
+		padding: 70px;
+		background-color: rgba(255,128,0, 0.05); /* 设置背景颜色 */
+}
+
+header ,footer,div,section,aside, nav,article{
+   
+       border: 0 dotted #f0f0f0;
+       border-radius:5px;
+
+}
+.custom-list-item {
+    width: 1150px; /* 设置不同的宽度值 */
+}
+.custom-table td {
+      font-size: 12px; /* 设置不同的文字大小 */
+    }
+
+
+	
+a,a:hover{
+   text-decoration: none;
+}
+
+
+.divContent{
+   min-height:350px;
+}
+
+
+/* 调整内容相对导航条的位置 */
+.content {
+ 
+    margin-top: 60px; 
+}
